@@ -1,2 +1,13 @@
-# Mini-Adventure-Game
-A short text-based adventure game written in python. Explore different paths, different story with multiple endings.
+# 🌲 Mini Adventure Game
+
+Welcome to the text-based adventure game where your choices shape the story!  
+Explore different paths, meet fun characters, and discover multiple endings.
+
+---
+
+## Features
+-  Interactive story with multiple choices  
+-  Simple and beginner-friendly Python code  
+-  Replayable with different outcomes  
+-  Runs directly in the terminal (no extra setup needed)
+
